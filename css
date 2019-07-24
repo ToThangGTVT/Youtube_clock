@@ -1,0 +1,12 @@
+.okok22423{
+	    cursor: pointer;
+    width: auto;
+    border: 1px solid var(--ytd-searchbox-legacy-button-border-color);
+    background-color: var(--ytd-searchbox-legacy-button-color);
+    border-radius: 0 2px 2px 0;
+    margin-left: 20px;
+	color: #aaaaaa;
+}
+ytd-searchbox.ytd-masthead{
+	margin: 0px 60px!important;
+}
